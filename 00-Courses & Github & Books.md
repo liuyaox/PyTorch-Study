@@ -18,3 +18,5 @@ The goal of this repo is:
 
 c. PyTorch Cookbook（常用代码段整理合集）(<https://zhuanlan.zhihu.com/p/59205847?>)
 
+d. 史上最全PyTorch资源汇总：教程、实战、必读论文、中文教材一应俱全 (<https://github.com/intermt/awesome-pytorch-chinese>)
+
