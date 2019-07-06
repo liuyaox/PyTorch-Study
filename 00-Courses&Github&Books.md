@@ -4,11 +4,9 @@ PyTorch Tutorial and Docs
 
 
 
-## Github & Code
+## Source
 
-- [Model summary in PyTorch (Similar to `model.summary()` in Keras)](https://github.com/sksq96/pytorch-summary)
-
-- [Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.](https://github.com/Cadene/pretrained-models.pytorch)
+- [Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.](<https://github.com/Cadene/pretrained-models.pytorch>)
 
     The goal of this repo is:
 
@@ -16,13 +14,14 @@ PyTorch Tutorial and Docs
 
     - to access pretrained ConvNets with a unique interface/API inspired by torchvision
 
-- [PyTorch Cookbook（常用代码段整理合集)](https://zhuanlan.zhihu.com/p/59205847?)
+- [PyTorch Cookbook（常用代码段整理合集)](<https://zhuanlan.zhihu.com/p/59205847?>)
 
-- [史上最全PyTorch资源汇总：教程、实战、必读论文、中文教材一应俱全](https://github.com/intermt/awesome-pytorch-chinese)
+- [史上最全PyTorch资源汇总：教程、实战、必读论文、中文教材一应俱全](<https://github.com/intermt/awesome-pytorch-chinese>)
 
-- [Simple PyTorch Tutorials Zero to ALL! ](https://github.com/hunkim/PyTorchZeroToAll)
+## Tool & Library
 
-- [PyTorch Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
+- [Model summary in PyTorch similar to `model.summary()` in Keras](<https://github.com/sksq96/pytorch-summary>)
 
-    [PyTorch Python3 动态神经网络](https://morvanzhou.github.io/tutorials/machine-learning/torch/)
+- [Count the FLOPs of your PyTorch model](https://github.com/lyken17/pytorch-opcounter)
 
+    能够统计PyTorch模型的参数个数和计算量FLOPS(每秒浮点运算次数Floating-point operations per second)
