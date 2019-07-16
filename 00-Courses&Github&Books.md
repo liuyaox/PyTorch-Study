@@ -1,7 +1,6 @@
 # PyTorch-Study
+
 PyTorch Tutorial and Docs
-
-
 
 
 ## Source
@@ -18,6 +17,7 @@ PyTorch Tutorial and Docs
 
 - [史上最全PyTorch资源汇总：教程、实战、必读论文、中文教材一应俱全](<https://github.com/intermt/awesome-pytorch-chinese>)
 
+
 ## Tool & Library
 
 - [Model summary in PyTorch similar to `model.summary()` in Keras](<https://github.com/sksq96/pytorch-summary>)
@@ -25,3 +25,7 @@ PyTorch Tutorial and Docs
 - [Count the FLOPs of your PyTorch model](https://github.com/lyken17/pytorch-opcounter)
 
     能够统计PyTorch模型的参数个数和计算量FLOPS(每秒浮点运算次数Floating-point operations per second)
+
+- [切换TensorFlow与PyTorch](https://github.com/BlackHC/TfPyTh)
+
+    Putting TensorFlow back in PyTorch, back in TensorFlow (differentiable TensorFlow PyTorch adapters).
