@@ -17,6 +17,10 @@ PyTorch Tutorial and Docs
 
 - [史上最全PyTorch资源汇总：教程、实战、必读论文、中文教材一应俱全](<https://github.com/intermt/awesome-pytorch-chinese>)
 
+- <https://github.com/bharathgs/Awesome-pytorch-list>
+
+    476个PyTorch资源大合集推荐
+
 
 ## Tool & Library
 
@@ -29,3 +33,21 @@ PyTorch Tutorial and Docs
 - [切换TensorFlow与PyTorch](https://github.com/BlackHC/TfPyTh)
 
     Putting TensorFlow back in PyTorch, back in TensorFlow (differentiable TensorFlow PyTorch adapters).
+
+
+## Article
+
+- [PyTorch internals - 2019](http://blog.ezyang.com/2019/05/pytorch-internals/)
+
+    **Chinese**: [PyTorch内部机制，来自核心开发者的全面解读](https://www.jiqizhixin.com/articles/2019-06-02-4)
+
+- [学习Pytorch过程遇到的坑 - 2019](https://zhuanlan.zhihu.com/p/61892329)
+
+- [PyTorch踩过的坑 - 2019](https://zhuanlan.zhihu.com/p/59271905)
+
+
+## Practice
+
+- <https://github.com/IgorSusmelj/pytorch-styleguide>
+
+    A PyTorch Tools, best practices & Styleguide
