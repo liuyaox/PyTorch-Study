@@ -41,10 +41,6 @@ PyTorch Tutorial and Docs
 
     **Chinese**: [PyTorch内部机制，来自核心开发者的全面解读](https://www.jiqizhixin.com/articles/2019-06-02-4)
 
-- [学习Pytorch过程遇到的坑 - 2019](https://zhuanlan.zhihu.com/p/61892329)
-
-- [PyTorch踩过的坑 - 2019](https://zhuanlan.zhihu.com/p/59271905)
-
 - [一文弄懂Pytorch的DataLoader, DataSet, Sampler之间的关系 - 2019](https://zhuanlan.zhihu.com/p/76893455)
 
 
@@ -52,4 +48,12 @@ PyTorch Tutorial and Docs
 
 - <https://github.com/IgorSusmelj/pytorch-styleguide>
 
-    A PyTorch Tools, best practices & Styleguide
+    A PyTorch Tools, best practices & Style guide
+
+
+## Tricks and Tips
+
+#### Article
+
+- [【PyTorch】梯度爆炸、loss在反向传播变为nan - 2019](https://zhuanlan.zhihu.com/p/79046709)
+  
