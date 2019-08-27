@@ -9,3 +9,4 @@
 
 - [pytorch常见的坑汇总 - 2019](https://zhuanlan.zhihu.com/p/77952356)
 
+- [PyTorch trick 集锦 - 2019](https://zhuanlan.zhihu.com/p/76459295)
