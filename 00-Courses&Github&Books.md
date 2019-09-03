@@ -1,11 +1,14 @@
-# PyTorch-Study
+# PyTorch Study
 
 PyTorch Tutorial and Docs
 
+## Overview
 
-## Source
+#### Code
 
-- [Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.](<https://github.com/Cadene/pretrained-models.pytorch>)
+- <https://github.com/Cadene/pretrained-models.pytorch>
+
+    Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.
 
     The goal of this repo is:
 
@@ -15,16 +18,22 @@ PyTorch Tutorial and Docs
 
 - [PyTorch Cookbook（常用代码段整理合集)](<https://zhuanlan.zhihu.com/p/59205847?>)
 
-- [史上最全PyTorch资源汇总：教程、实战、必读论文、中文教材一应俱全](<https://github.com/intermt/awesome-pytorch-chinese>)
+- <https://github.com/intermt/awesome-pytorch-chinese>
+
+    史上最全PyTorch资源汇总：教程、实战、必读论文、中文教材一应俱全
 
 - <https://github.com/bharathgs/Awesome-pytorch-list>
 
     476个PyTorch资源大合集推荐
 
+- <https://github.com/zergtant/pytorch-handbook>
 
-## Tool & Library
+    pytorch handbook是一本开源的书籍
 
-- [Model summary in PyTorch similar to `model.summary()` in Keras](<https://github.com/sksq96/pytorch-summary>)
+
+#### Tool & Library
+
+- [Model summary in PyTorch similar to `model.summary()` in Keras](https://github.com/sksq96/pytorch-summary)
 
 - [Count the FLOPs of your PyTorch model](https://github.com/lyken17/pytorch-opcounter)
 
@@ -35,7 +44,7 @@ PyTorch Tutorial and Docs
     Putting TensorFlow back in PyTorch, back in TensorFlow (differentiable TensorFlow PyTorch adapters).
 
 
-## Article
+#### Article
 
 - [PyTorch internals - 2019](http://blog.ezyang.com/2019/05/pytorch-internals/)
 
@@ -43,8 +52,12 @@ PyTorch Tutorial and Docs
 
 - [一文弄懂Pytorch的DataLoader, DataSet, Sampler之间的关系 - 2019](https://zhuanlan.zhihu.com/p/76893455)
 
+- [PYTORCH VS. TENSORFLOW: WHICH FRAMEWORK IS BEST FOR YOUR DEEP LEARNING PROJECT? - 2019](https://builtin.com/data-science/pytorch-vs-tensorflow)
 
-## Practice
+    **Chinese**: [TensorFlow与PyTorch之争，哪个框架最适合深度学习](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650769131&idx=2&sn=4def04d2834637e38915641190727b60)
+
+
+#### Practice
 
 - <https://github.com/IgorSusmelj/pytorch-styleguide>
 
