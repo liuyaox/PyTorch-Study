@@ -1,8 +1,6 @@
-# PyTorch Study
+# PyTorch Overview
 
-PyTorch Tutorial and Docs
-
-## Overview
+Overview, Courses, Code, Books, Misc., etc.
 
 #### Code
 
@@ -33,15 +31,34 @@ PyTorch Tutorial and Docs
 
 #### Tool & Library
 
-- [Model summary in PyTorch similar to `model.summary()` in Keras](https://github.com/sksq96/pytorch-summary)
+- <https://github.com/microsoft/tensorwatch>
 
-- [Count the FLOPs of your PyTorch model](https://github.com/lyken17/pytorch-opcounter)
+    ```shell
+    conda install pytorch-nightly -c pytorch
+    conda install graphviz
+    conda install torchvision
+    conda install tensorwatch
+    ```
+    ```python
+    import tensorwatch as tw
+    tw.draw_model(model, [1, 3, 224, 224])   # 参数2-input_shape 参数3-orientation，'LR'或'TB'，表示左右或上下布局
+    tw.model_stats(model, [1, 3, 224, 224])  # 网络参数统计
+    ```
+    ![](https://raw.githubusercontent.com/liuyaox/ImageHosting/master/for_markdown/tensorwatch_draw_model.png)
 
-    能够统计PyTorch模型的参数个数和计算量FLOPS(每秒浮点运算次数Floating-point operations per second)
+    ![](https://raw.githubusercontent.com/liuyaox/ImageHosting/master/for_markdown/tensorwatch_model_stats.png)
 
-- [切换TensorFlow与PyTorch](https://github.com/BlackHC/TfPyTh)
+- <https://github.com/sksq96/pytorch-summary>
 
-    Putting TensorFlow back in PyTorch, back in TensorFlow (differentiable TensorFlow PyTorch adapters).
+    Model summary in PyTorch similar to `model.summary()` in Keras
+
+- <https://github.com/lyken17/pytorch-opcounter>
+
+    Count the FLOPs of your PyTorch model,  能够统计PyTorch模型的参数个数和计算量FLOPS(每秒浮点运算次数Floating-point operations per second)
+
+- <https://github.com/BlackHC/TfPyTh>
+
+    切换TensorFlow与PyTorch   Putting TensorFlow back in PyTorch, back in TensorFlow (differentiable TensorFlow PyTorch adapters).
 
 
 #### Article
@@ -62,11 +79,3 @@ PyTorch Tutorial and Docs
 - <https://github.com/IgorSusmelj/pytorch-styleguide>
 
     A PyTorch Tools, best practices & Style guide
-
-
-## Tricks and Tips
-
-#### Article
-
-- [【PyTorch】梯度爆炸、loss在反向传播变为nan - 2019](https://zhuanlan.zhihu.com/p/79046709)
-  
