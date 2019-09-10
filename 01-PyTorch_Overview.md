@@ -73,6 +73,8 @@ Overview, Courses, Code, Books, Misc., etc.
 
     **Chinese**: [TensorFlow与PyTorch之争，哪个框架最适合深度学习](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650769131&idx=2&sn=4def04d2834637e38915641190727b60)
 
+- [Keras和PyTorch的视觉识别与迁移学习对比 - 2018](https://cloud.tencent.com/developer/article/1358228)
+
 
 #### Practice
 
