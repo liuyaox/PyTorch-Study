@@ -4,7 +4,14 @@
 
 # 1. torch.nn
 
-## 1.1 nn.LSTM
+## 1.1 Overview
+
+#### Article
+
+- [PyTorch 中，nn 与 nn.functional 有什么区别](https://www.zhihu.com/question/66782101)
+
+
+## 1.2 nn.LSTM
 
 返回的output, (h_n, c_n)
 
