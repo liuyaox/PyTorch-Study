@@ -28,6 +28,11 @@ Overview, Courses, Code, Books, Misc., etc.
 
     pytorch handbook是一本开源的书籍
 
+- <https://github.com/ShusenTang/Dive-into-DL-PyTorch>
+  
+    本项目将《动手学深度学习》（Dive into Deep Learning）原书中的MXNet代码实现改为PyTorch实现
+
+    **Book**: <https://github.com/d2l-ai/d2l-zh> (MXNet)
 
 #### Tool & Library
 
