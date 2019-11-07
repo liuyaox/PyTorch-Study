@@ -34,6 +34,9 @@ Overview, Courses, Code, Books, Misc., etc.
 
     **Book**: <https://github.com/d2l-ai/d2l-zh> (MXNet)
 
+    **PDF**: <https://github.com/OUCMachineLearning/OUCML/blob/master/BOOK/Dive-into-DL-PyTorch.pdf>
+
+
 #### Tool & Library
 
 - <https://github.com/microsoft/tensorwatch>
