@@ -2,6 +2,13 @@
 
 Overview, Courses, Code, Books, Misc., etc.
 
+#### Paper
+
+- [PyTorch: An Imperative Style, High Performance Deep Learning Library - 2019](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)
+
+    **Chinese**: [NeurIPS顶会接收，PyTorch官方论文首次曝光完整设计思路](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650775275&idx=1&sn=e0fc05636689fc6a2aaeb63e57884c47)
+
+
 #### Code
 
 - <https://github.com/Cadene/pretrained-models.pytorch>
