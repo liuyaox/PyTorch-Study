@@ -24,6 +24,14 @@
 当num_layers=1时，output和hidden相等（等一哈，难道不是output[seq_len-1]=sofxmax(hidden)???）
 
 
+## 1.3 Loss Function
+
+#### Article
+
+- [Pytorch学习之十九种损失函数 - 2019](https://blog.csdn.net/shanglianlm/article/details/85019768)
+
+
+
 # 2. torch.nn.utils
 
 ## 2.1 nn.utils.rnn
@@ -69,4 +77,3 @@ torch.nn.utils.rnn.pad_packed_sequence()
 - <https://github.com/HarshTrivedi/packing-unpacking-pytorch-minimal-tutorial>
 
 - [PyTorch 训练 RNN 时，序列长度不固定怎么办？ - 2019](https://zhuanlan.zhihu.com/p/59772104)
-
