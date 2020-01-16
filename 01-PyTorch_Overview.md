@@ -63,6 +63,12 @@ Overview, Courses, Code, Books, Misc., etc.
 
     ![](https://raw.githubusercontent.com/liuyaox/ImageHosting/master/for_markdown/tensorwatch_model_stats.png)
 
+- <https://github.com/lanpa/tensorboardX>
+
+    tensorboard for pytorch (and chainer, mxnet, numpy, ...)
+
+    **Article**: [PyTorch 深度学习训练可视化工具 tensorboardX - 2020](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247495343&idx=3&sn=cba2b5d710ed8bfe8b3247468483bdd7)
+
 - <https://github.com/sksq96/pytorch-summary>
 
     Model summary in PyTorch similar to `model.summary()` in Keras
