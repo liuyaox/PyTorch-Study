@@ -9,7 +9,7 @@ Overview, Courses, Code, Books, Misc., etc.
     **Chinese**: [NeurIPS顶会接收，PyTorch官方论文首次曝光完整设计思路](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650775275&idx=1&sn=e0fc05636689fc6a2aaeb63e57884c47)
 
 
-#### Code
+#### Github
 
 - <https://github.com/Cadene/pretrained-models.pytorch>
 
@@ -42,6 +42,10 @@ Overview, Courses, Code, Books, Misc., etc.
     **Book**: <https://github.com/d2l-ai/d2l-zh> (MXNet)
 
     **PDF**: <https://github.com/OUCMachineLearning/OUCML/blob/master/BOOK/Dive-into-DL-PyTorch.pdf>
+
+- <https://github.com/bentrevett/pytorch-seq2seq>
+
+    Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText.
 
 
 #### Tool & Library
