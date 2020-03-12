@@ -85,6 +85,8 @@ Overview, Courses, Code, Books, Misc., etc.
 
     切换TensorFlow与PyTorch   Putting TensorFlow back in PyTorch, back in TensorFlow (differentiable TensorFlow PyTorch adapters).
 
+- 【Great】[pytorch实用工具总结 - 2018](https://zhuanlan.zhihu.com/p/33992733)
+
 
 #### Article
 
