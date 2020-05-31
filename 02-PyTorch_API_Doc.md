@@ -77,3 +77,14 @@ torch.nn.utils.rnn.pad_packed_sequence()
 - <https://github.com/HarshTrivedi/packing-unpacking-pytorch-minimal-tutorial>
 
 - [PyTorch 训练 RNN 时，序列长度不固定怎么办？ - 2019](https://zhuanlan.zhihu.com/p/59772104)
+
+- [pytorch中如何处理RNN输入变长序列padding - 2018](https://zhuanlan.zhihu.com/p/34418001)
+
+
+## 2.2 nn.utils.cpp_extension
+
+#### Practice
+
+- [pytorch的C++ extension写法 - 2020](https://zhuanlan.zhihu.com/p/100459760)
+
+

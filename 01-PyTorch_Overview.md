@@ -102,6 +102,7 @@ Overview, Courses, Code, Books, Misc., etc.
 
 - [Keras和PyTorch的视觉识别与迁移学习对比 - 2018](https://cloud.tencent.com/developer/article/1358228)
 
+- [同一个模型用theano，tf，pytorch实现，performance可能差距较大吗](https://www.zhihu.com/question/268494717)
 
 #### Practice
 
