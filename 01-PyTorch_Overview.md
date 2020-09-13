@@ -104,8 +104,16 @@ Overview, Courses, Code, Books, Misc., etc.
 
 - [同一个模型用theano，tf，pytorch实现，performance可能差距较大吗](https://www.zhihu.com/question/268494717)
 
+
 #### Practice
 
 - <https://github.com/IgorSusmelj/pytorch-styleguide>
 
     A PyTorch Tools, best practices & Style guide
+
+
+#### Book
+
+- <https://github.com/deep-learning-with-pytorch/dlwpt-code>
+
+    Deep Learning with PyTorch

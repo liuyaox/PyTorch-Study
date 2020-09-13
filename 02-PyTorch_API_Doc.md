@@ -80,6 +80,10 @@ torch.nn.utils.rnn.pad_packed_sequence()
 
 - [pytorch中如何处理RNN输入变长序列padding - 2018](https://zhuanlan.zhihu.com/p/34418001)
 
+- [NLP中各框架对变长序列的处理全解 - 2020](https://mp.weixin.qq.com/s/KxgA1U-mh9Tc1J1T9Aedrw)
+
+    以LSTM为例，对比了PyTorch, Keras和Tensorflow
+
 
 ## 2.2 nn.utils.cpp_extension
 
